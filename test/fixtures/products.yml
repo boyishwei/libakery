@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  price: 1
+  surplus: 1
+  sold_out: false
+  preorderable: false
+  description: 
+
+two:
+  name: MyString
+  price: 1
+  surplus: 1
+  sold_out: false
+  preorderable: false
+  description: 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Libakery: production" uuid="91f30f65-545e-4c58-8698-126d9e1c2c2f">
+      <database-info product="PostgreSQL" version="9.6.2" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>libakery</user-name>
+      <introspection-schemas>Libakery:public</introspection-schemas>
+    </data-source>
+    <data-source name="Rails Libakery: development" uuid="9b79b904-4eba-459c-95d4-9f1713b85b56">
+      <database-info product="PostgreSQL" version="9.6.2" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>libakery</user-name>
+      <introspection-schemas>Libakery_development:public</introspection-schemas>
+    </data-source>
+    <data-source name="Rails Libakery: test" uuid="2b928adf-b35a-416a-a7af-ed777de1a441">
+      <database-info product="PostgreSQL" version="9.6.2" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>libakery</user-name>
+      <introspection-schemas>Libakery_test:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>

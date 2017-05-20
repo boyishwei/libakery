@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails Libakery: production" uuid="91f30f65-545e-4c58-8698-126d9e1c2c2f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Libakery</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails Libakery: development" uuid="9b79b904-4eba-459c-95d4-9f1713b85b56">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Libakery_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails Libakery: test" uuid="2b928adf-b35a-416a-a7af-ed777de1a441">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Libakery_test</jdbc-url>
+    </data-source>
+  </component>
+</project>
